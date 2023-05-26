@@ -1,0 +1,22 @@
+header{
+    text-align: center;
+    background-color: cornflowerblue;
+    
+}
+
+body{
+     background: url();
+     background-color: cornflowerblue;
+}
+
+nav{
+    cursor: pointer;
+    text-align: center;
+    
+    
+}
+
+footer{
+    background-color: cornflowerblue;
+    text-align: center;
+}
